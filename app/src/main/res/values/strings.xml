@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicTacToePRO</string>
+    <string name="start">Начать</string>
+    <string name="single_player_game">Одиночная игра</string>
+    <string name="multiplayer">Мультиплеер</string>
+    <string name="text_continue">Продолжить</string>
+    <string name="text_exit">Выйти</string>
+    <string name="name_game">TicTacToePRO</string>
+    <string name="todo">TODO</string>
+</resources>
